@@ -16,17 +16,7 @@ Customer Stories: The "Customer Stories" section displays feedback from past cus
 
 Footer: A well-organized footer provides essential links and contact details, making it easier for users to get in touch with the bakery.
 
-(For laptop Screen)
 
-https://github.com/user-attachments/assets/348d0dac-5741-4b50-95eb-1162225396a9
-
-(For Tablet Screen)
-
-https://github.com/user-attachments/assets/04bfac46-85bf-43d9-bffc-bf4805716718
-
-(For mobile Screen)
-
-https://github.com/user-attachments/assets/52aa0adb-abe7-4314-87ed-eee2ef7b4194
 
 
 
